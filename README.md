@@ -7,11 +7,10 @@ Jobscript.sh is for running the program. The program tries to read text files wi
 
 
 
+
+
 Output:
 First 2 columns indicate the text file number and pattern file number.
-
 Final column indicates the following:
-
-Searching for any - Result -2 if pattern found, -1 if not found
-
-Searching for all - Index number if found, -1 if not found
+Searching for any: Result -2 if pattern found, -1 if not found
+Searching for all: Index number if found, -1 if not found
